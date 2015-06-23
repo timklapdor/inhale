@@ -1,11 +1,11 @@
 # Build settings
 markdown: redcarpet
 highlighter: pygments
-gems:
-  - jemoji
-  
+
+url: http://timklapdor.com
+
 # Site settings
-title: "Intake"
+title: "Inhale"
 description: > # this means to ignore newlines until "email:"
    Captured breath from the Digital World
 
@@ -21,8 +21,6 @@ author_image: "/assets/images/closeup-240.jpg"
 
 paginate:	5
 
-url: "http://timklapdor.github.io/intake" # the base hostname & protocol for your site
-baseurl: "/intake"
 
 # social icons and sharing options
 social:
