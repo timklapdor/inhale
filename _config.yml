@@ -59,7 +59,7 @@ social:
     share_title:
     share_link:
     
-- icon: envelope
+  - icon: envelope
     url:  mailto:tim.klapdor@gmail.com
     desc: Email
     share_url:
