@@ -5,7 +5,7 @@ title:  "You're fired. Enjoy your summer."
 date: 2015-06-20 14:00:00
 categories: post
 tags: academia management 
-image: /assets/article_images/desktop.jpg
+image: /assets/article_images/summer.jpg
 
 ---
 

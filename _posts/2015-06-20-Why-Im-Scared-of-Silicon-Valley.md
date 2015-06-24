@@ -1,11 +1,11 @@
 ---
 
 layout: post
-title:  "Why I’m more scared of Silicon Valley than Islamic State"
+title:  Why I’m more scared of Silicon Valley than Islamic State
 date: 2015-06-20 15:00:00
 categories: post
-tags: ideology consumers  
-image: /assets/article_images/desktop.jpg
+tags: ideology consumers isis
+image: /assets/article_images/silicon-valley.jpg
 
 ---
 

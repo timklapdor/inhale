@@ -5,7 +5,7 @@ title:  "Is the 'App Mentality' Killing Students' Creativity?"
 date: 2015-06-20 12:00:00
 categories: article
 tags: app creativity 
-image: /assets/article_images/desktop.jpg
+image: https://c2.staticflickr.com/4/3103/2909483129_fc38488202_b.jpg
 
 ---
 
@@ -23,3 +23,5 @@ Really? Digital Media created this? I can buy the concept outlined in the post b
 - there’s less time for the default mode of the brain to be active and to develop that self-understanding and empathy
 
 Source: [Is the 'App Mentality' Killing Students' Creativity?](http://thejournal.com/Articles/2015/06/16/Is-the-App-Mentality-Killing-Students-Creativity.aspx?Page=1)
+
+Image: flickr photo by [Cristiano Betta](http://flickr.com/photos/cristiano_betta/2909483129) shared under a Creative Commons (BY) license
