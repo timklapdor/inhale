@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title:  Bayard Rustin: Who Is This Man?
+title: "Bayard Rustin: Who Is This Man?"
 date: 2015-06-20 12:00:00
 categories: podcast
 tags: [civil rights, peace, non-violent]
