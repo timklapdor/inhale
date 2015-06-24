@@ -5,7 +5,7 @@ title:  Bayard Rustin: Who Is This Man?
 date: 2015-06-20 12:00:00
 categories: audio
 tags: [civil rights, peace, non-violent]
-image: /assets/article_images/desktop.jpg
+image: /assets/article_images/bayard-rustin.jpg
 
 ---
 
