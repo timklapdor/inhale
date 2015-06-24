@@ -52,7 +52,8 @@
         </section>
         <footer class="post-footer">
             <section class="categories">
-                <p>Tagged with {{ page.categories | join: ', ' }}</p>
+                <p>Category: {{ page.categories | join: ', ' }}</p>
+                <p>Tags: {{ page.tags | join: ', ' }}</p>
             </section>
           <section class="share">
             {% for social in site.social %}
