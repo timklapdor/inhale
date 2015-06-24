@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title:  "You're fired. Enjoy your summer."
+title: "You're fired. Enjoy your summer."
 date: 2015-06-20 14:00:00
 categories: post
 tags: academia management 
