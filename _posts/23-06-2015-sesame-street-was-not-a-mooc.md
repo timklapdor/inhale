@@ -5,7 +5,7 @@ title: No, Sesame Street Was Not the First MOOC
 date: 23-06-2015 12:43:00
 categories: post
 tags: [mooc, sesame street, research]
-image: http://img2.wikia.nocookie.net/__cb20121110171617/muppet/images/c/c1/MuppetsOfSesameStreet.jpg
+image: http://pittsburghmommyblog.com/wp-content/uploads/2014/01/sesame2.jpg
 
 ---
 
