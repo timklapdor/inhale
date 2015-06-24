@@ -3,7 +3,7 @@
 layout: post
 title: Islamic State and global terrorism - where to now?
 date: 23-06-2015 19:35:00
-categories: audio
+categories: podcast
 tags: war middle-east isis iraq syria 
 image: http://postconflictjustice.com/wp-content/uploads/2014/12/ISIS-isil-iraq-mn-905.jpeg
 
