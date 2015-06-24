@@ -19,9 +19,9 @@ It's an interesting concept - one that fills me with horror and dread. It's an a
 
 Seriously? That's the kind of decision that you're worried about? You should be able to navigate that one on auto-pilot, because there isn't even a decision to be made! 
 
-Don't get me wrong, I think there is an issue with the vast amount of choice and decisions that need to be made, but this has more to do with the consumer economy that places the highest value on choice rather than impact. That's why there are 44 types of toothpaste, 20 types of peanut butter, a million pieces of plastic in every colour under the sun all which will will end up as landfill. 
+Don't get me wrong, I think there is an issue with the vast amount of choice and decisions that need to be made, but this has more to do with the consumer economy that places the highest value on **choice**, rather than *impact*. That's why there are 44 types of toothpaste, 20 types of peanut butter, a million pieces of plastic in every colour under the sun all which will will end up as landfill. 
 
-The solution proposed is not to get rid of the pointless and inconseuencial choices the system creates for us, but instead pretend to make choices for us by removing any sense of control we might have had.
+The solution proposed is not to get rid of the pointless and inconsequential choices the system creates for us, but instead pretend to make choices for us by removing any sense of control we might have had.
  
 
 Source: [The next design trend is one that eliminates all choices](http://qz.com/429929/the-next-design-trend-is-one-that-eliminates-all-choices/)
