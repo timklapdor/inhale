@@ -4,7 +4,7 @@ layout: post
 title: Cobwebs and Skeletons
 date: 2015-MM-DD 16:00:00
 categories: tool
-tags: [html5, boilerplate, template, starter, web development]
+tags: [html5, boilerplate, template, starter, web development,]
 image: /assets/article_images/skeleton.jpg
 
 ---
