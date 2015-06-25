@@ -21,7 +21,6 @@ author_image: "/assets/images/closeup-240.jpg"
 
 paginate: 10
 
-
 # social icons and sharing options
 social:
   - icon: twitter
@@ -31,8 +30,8 @@ social:
     share_title: ?text=
     share_link: "&amp;url="
 
-#  - icon:	facebook
-#    url:	https://facebook.com/???
+#  - icon: facebook
+#    url: https://facebook.com/???
 #    desc: Connect with me facebook
 #    share_url: https://www.facebook.com/sharer.php
 #    share_title: ?t=
@@ -45,9 +44,9 @@ social:
     share_title:
     share_link:
 
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
+#  - icon: google-plus
+#    url: https://google.com/???
+#    desc: Add me on google+
 #    share_url:
 #    share_title:
 #    share_link:
@@ -64,4 +63,4 @@ social:
     desc: Email
     share_url:
     share_title:
-    share_link:  
+    share_link:
