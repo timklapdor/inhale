@@ -2,12 +2,12 @@
 markdown: redcarpet
 highlighter: pygments
 
-url: http://timklapdor.com
-
 # Site settings
 title: "Inhale"
 description: > # this means to ignore newlines until "email:"
    Captured breath from the Digital World
+
+url: http://timklapdor.com
 
 email: tim.klapdor@gmail.com
 #blog logo
