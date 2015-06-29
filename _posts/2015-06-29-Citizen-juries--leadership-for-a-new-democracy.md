@@ -3,7 +3,7 @@
 layout: post
 title: "Citizen juries - leadership for a new democracy"
 date: 2015-06-29 23:45:00
-categories: post
+category: post
 tags: [democracy, jury, , welfare,]
 image: https://upload.wikimedia.org/wikipedia/commons/b/b7/The_Jury_by_John_Morgan.jpg
 
