@@ -37,4 +37,4 @@ Kind of feel that's how we are currently seen by the corporates in Silicon Valle
 
 Source: [Wendy Chun, on software and the machine](http://www.publicseminar.org/2015/07/chun/#)
 
-Image: 
+Image: [A Million Keys](http://amillionkeys.com/writing/wendy-hui-kyong-chun-programmed-visions-software-and-memory-co-authored-with-lisa-gitelman/)
