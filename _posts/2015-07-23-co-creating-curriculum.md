@@ -5,7 +5,7 @@ title: "Co-Creating Curriculum"
 date: 2015-07-23 15:45:00
 categories: post
 tags: [co-creation, creativity, model, education, generative, choice]
-image: /assets/article_images/creative
+image: /assets/article_images/creative.jpg
 
 ---
 
