@@ -19,7 +19,7 @@ name: 'Tim Klapdor'
 author: 'Tim Klapdor'
 author_image: "/assets/images/closeup-240.jpg"
 
-paginate: 10
+paginate: 20
 
 # social icons and sharing options
 social:
