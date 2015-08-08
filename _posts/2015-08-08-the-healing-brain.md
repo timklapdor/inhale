@@ -18,7 +18,7 @@ What I got out of this talk was two important concepts:
 1. That the secret to the brain is understanding that it is an energy system. That it responds, controls, manipulates and translates energy in order for us to function. 
 2. The concept of a "[transducer](https://en.wikipedia.org/wiki/Transducer)" - a device that converts one form of energy to another form of energy. 
 
-The transducer concept is particularly important in many of the treatments that Doidge describes. By delivery energy in one from - visual, auditory, sensory - it can be converted into energy forms. These can then "treat" the conditions in the brain. 
+The transducer concept is particularly important in many of the treatments that Doidge describes. By delivery energy in one from - visual, auditory, sensory - it can be converted into other energy forms. These can then "treat" the various conditions of the brain. 
 
 As an introduction this is a great listen - Doidge is engaging and enthusiastic and capable of weaving a great narrative. For me it's also kick started some thinking around energy and this concept of the transducer, a totally new term to me, but one that I can relate a lot of things too. 
 
