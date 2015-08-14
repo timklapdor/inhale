@@ -80,12 +80,12 @@ prose:
         field:
           label: "Title"
           element: "text"
-          value: "An Awesome Headline!"
+          placeholder: "An Awesome Headline!"
       - name: "date"
         field:
           element: "text"
-          label: "todays date"
-          placeholder: "CURRENT_DATETIME"
+          label: "Date"
+          value: "CURRENT_DATETIME"
       - name: "categories"
         field:
           element: "multiselect"
