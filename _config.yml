@@ -71,6 +71,11 @@ prose:
   media: 'assets/article-images'
   metadata:
     _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
       - name: "layout"
         field:
           element: "hidden"
@@ -109,7 +114,3 @@ prose:
           element: "text"
           label: "Featured Image"
           placeholder: "/assets/article_images/somefile.jpg"
-      - name: "title"
-        field:
-          element: "text"
-          label: "title"
