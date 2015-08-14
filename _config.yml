@@ -76,10 +76,6 @@ prose:
           element: "hidden"
           label: "Layout"
           value: "post"
-      - name: "title"
-        field:
-          element: "text"
-          label: "title"
       - name: "date"
         field:
           element: "text"
@@ -113,3 +109,7 @@ prose:
           element: "text"
           label: "Featured Image"
           placeholder: "/assets/article_images/somefile.jpg"
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
