@@ -78,9 +78,8 @@ prose:
           value: "post"
       - name: "title"
         field:
-          label: "Title"
           element: "text"
-          placeholder: "An Awesome Headline!"
+          label: "title"
       - name: "date"
         field:
           element: "text"
@@ -113,4 +112,4 @@ prose:
         field:
           element: "text"
           label: "Featured Image"
-          placeholder: "somefile.jpg"
+          placeholder: "/assets/article_images/somefile.jpg"
