@@ -1,13 +1,14 @@
 ---
-
 layout: post
 title: "The Denominator Problem: Understanding the Rising Cost of Human Attention"
-date: 2015-08-05 17:44
-categories: post
-tags: [time, content, advertising, attention, denominator, ]
-image: /assets/article_images/clock-tower.jpg
-
+date: "2015-08-05 17:44"
+categories: 
+  - post
+tags: "time,content,advertising,attention,denominator"
+image: "/assets/article_images/clock-tower.jpg"
+published: true
 ---
+
 
 >Today is just 24 hours long. Tomorrow will be 24 hours long, too. We sleep an average of 7.7 hours a night, which leaves 16.3 hours in which we humans can pay attention to, well, everything. That’s not increasing. So, in other words — no matter how much we think we can multitask, human attention is finite.
 
@@ -27,6 +28,6 @@ The other idea in this piece that I can really relate to is a definition of time
 
 Perhaps it's time to re-think time. 
 
-Source: [The Denominator Problem: Understanding the Rising Cost of Human Attention](http://edutechnica.com/2015/08/01/blackboards-complexity-problems/)
+Source: [The Denominator Problem: Understanding the Rising Cost of Human Attention](https://www.linkedin.com/pulse/denominator-problem-understanding-rising-cost-human-joe-marchese)
 
-Image: [Brighton Clock Tower](https://flic.kr/p/96bybq) by Dominic Alves 
+Image: [Brighton Clock Tower](https://flic.kr/p/96bybq) by Dominic Alves
