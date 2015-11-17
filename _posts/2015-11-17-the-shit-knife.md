@@ -5,7 +5,7 @@ categories:
   - podcast
 tags: "indigenous, stories, ingenuity, practice, advantage"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/59/Walrus_hunting.jpg"
-published: false
+published: true
 title: The Shit Knife
 ---
 
